@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EduardoCardoso14, and I'm coding in:
+- 💻 PHP (Web)
+- 💻 Java (Desktop)
+- 💻 React Native (Mobile)
+- 🎲 MySQL (Relacional)
